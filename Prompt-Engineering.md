@@ -1,5 +1,3 @@
 # Prompt Engineering -Chat GPT
 
-Person paters Pathologist.
-== very important words ==
-
+Leen - **Persona Pattern**
